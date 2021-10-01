@@ -41,6 +41,8 @@ Example of LCD that showing the Voltage value which comes from PWM PIN and its p
 In this code, we are determining the Value that from PWM PIN between 0.00 - 5.00 instead of 0-1023 and watching the value in Serial Monitor
 
 
+## 10. [4 bit Binary Up Counter](https://github.com/batulaiko/Arduino_Practices/tree/main/4-bit-Binary-Up-Counter)
 
+Example of 4-Bit Binary Up Counter. The aim of the experiment is, examine the “boolean” code, how it makes the writing the code simple and learn the areas of “boolean” code to use.
 
 
